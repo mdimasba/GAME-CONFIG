@@ -1,2 +1,4 @@
-# GAME-CONFIG
-Public configuration for game projects
+# Game Remote Config
+
+This repository contains public configuration files
+used for remote feature flags and availability checks.
